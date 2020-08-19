@@ -8,11 +8,15 @@ After communicating with the operation team, I am provided with historical two m
 
 In addition, Fresh GoGo runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of which are the Super Bowl, Labor Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge presented by this project is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data.
 
-stores.csv
 
+## The main python libraries used are：pandas、numpy、matplotlib、seaborn 
+## Datasets 
+
+
+Order+data+20200629-20200712.csv Order+data+20200713-20200726.csv 
 This file contains anonymized information about the 45 stores, indicating the type and size of store.
 
-train.csv
+xiaoshouliushui20200629-0712.xlsx xiaoshouliushui20200713-0726.xlsx
 
 This is the historical training data, which covers to 2010-02-05 to 2012-11-01. Within this file you will find the following fields:
 
