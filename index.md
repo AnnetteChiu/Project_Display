@@ -4,12 +4,9 @@ FreshGoGo is the first ever Chinese online grocery and authentic Asian food shop
 
 
 ## Data Description
-After communicating with the operation team, I am provided with historical sales data for Fresh GoGo stores located in different regions. 
+After communicating with the operation team, I am provided with historical two months sales data for Fresh GoGo stores located in different regions. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Predicitve and sale data analytics methods are easy to apply with this dataset. Each documents contains number of customer ID and products infomations, and I am tasked with with predicting the department-wide sales and need to solve the following problem: use existing data, divide different customer types, brake can understand that the customer is a high-quality supermarket customer, and provide it to the marketing team opinion. 1. Best Product Analysis 2. Sales time point analysis 3. Customer order volume analysis
 
-
-The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Predictive data analytics methods are easy to apply with this dataset.
-
-Each store contains a number of departments, and you are tasked with predicting the department-wide sales for each store. In addition, Walmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of which are the Super Bowl, Labor Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge presented by this competition is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data.
+In addition, Fresh GoGo runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of which are the Super Bowl, Labor Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge presented by this project is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data.
 
 stores.csv
 
