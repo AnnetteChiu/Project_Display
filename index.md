@@ -1,5 +1,15 @@
 ## Welcome to GitHub Pages
 
+
+Case Background: FreshGoGo is the first ever Chinese online grocery and authentic Asian food shopping and delivery service in North America supported by advanced technical platform. FreshGoGo provides customers with fresh and high-quality of Fresh Vegetables, Poultry & Meat, Fish & Seafood, Pantry, Dry Goods, Frozen Items, Refrigerated Items, Snacks, Drinks, as well as gourmet Asian food from local famous stores and restaurants at competitive prices. FreshGoGo customers can not only choose grocery items and process an order through multiple devices (smart phone, tablet and PC), but also track the order/delivery status in real time from the point of order creation to the delivery, such as exact time when the order is loaded to the truck and when the order arrives. FreshGoGo offers nearby pickup locations and home delivery service. FreshGoGo makes grocery and food shopping & delivery fast and easy.
+
+Some basic data of existing supermarket shopping mall customers, such as Customer ID, Consumption amount, Order amount, order time. 
+1. Python model and data import 
+2. Two data format merging and data processing 
+3. Need to solve the problem: use existing data, divide different customer types, brake can understand that the customer is a high-quality supermarket customer, and provide it to the marketing team opinion. Best product analysis analysis 
+4. Sales time point analysis 
+5. Customer order volume analysis
+
 You can use the [editor on GitHub](https://github.com/AnnetteChiu/Project_Display/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
