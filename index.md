@@ -78,11 +78,10 @@ Syntax highlighted code block
 [Link](https://octodex.github.com/images/yaktocat.png) and ![Image](src)
 ![](https://octodex.github.com/images/yaktocat.png)
 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
-
-
 ```
+
+![](https://octodex.github.com/images/yaktocat.png)
+[Link](https://octodex.github.com/images/yaktocat.png) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
