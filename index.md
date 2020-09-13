@@ -76,6 +76,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 [Link](url) and ![Image](src)
 [Link](https://octodex.github.com/images/yaktocat.png) and ![Image](src)
+![](https://octodex.github.com/images/yaktocat.png)
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
