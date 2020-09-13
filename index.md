@@ -81,6 +81,9 @@ Syntax highlighted code block
 ```
 ![](https://octodex.github.com/images/yaktocat.png)
 
+
+![](https://github.com/Geoffrey0107/Geoffrey-Duan/blob/gh-pages/Screen%20Shot%202020-09-07%20at%2011.34.29%20PM.png)
+
 #[Link](https://octodex.github.com/images/yaktocat.png) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
