@@ -78,7 +78,8 @@ Syntax highlighted code block
 [Link](https://octodex.github.com/images/yaktocat.png) and ![Image](src)
 ![](https://octodex.github.com/images/yaktocat.png)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
 
 
 ```
